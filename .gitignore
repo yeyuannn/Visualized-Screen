@@ -1,0 +1,17 @@
+# Screenshot source materials
+**/screenshots/
+**/*截图*/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bmp
+*.zip
+*.rar
+*.7z
+
+# Local development files
+.idea/
+__pycache__/
+*.py[cod]
