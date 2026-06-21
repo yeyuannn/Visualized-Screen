@@ -1,0 +1,4 @@
+name = "visualized-screen1"
+compatibility_date = "2026-06-21"
+
+assets = { directory = "./" }
